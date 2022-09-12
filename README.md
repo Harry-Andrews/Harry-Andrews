@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://acegif.com/gifs-welcome/" width="100"/>
-</div>
 
 - 👋 Hi, I’m @Harry-Andrews
 - 👀 I’m interested in machine learning and finance
