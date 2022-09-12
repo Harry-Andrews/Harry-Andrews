@@ -9,7 +9,7 @@
 - 📫 How to reach me You can email me at Harry.Andrews.Github@gmail.com
 
 
-Bio: Hey I'm Harry a recent maths graduate from Warwick. I am currently learning more about SQL and python.
+Bio: I'm Harry a recent maths graduate from Warwick. I am currently learning more about SQL and python.
 I am actively looking for development positions.
 
 <!---
